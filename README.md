@@ -1,6 +1,7 @@
 Getting-and-cleaning-data-project
 =================================
-source data files:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+source data files:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 requires plyr and reshape2 packages
 R version:
 platform       x86_64-w64-mingw32          
